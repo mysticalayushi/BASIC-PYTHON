@@ -1,1 +1,0 @@
-This file contains some basic Python programs such as average of three numbers, varioys methods of swapping two numbers, area and perimeter of a circle, checking divisiblity of a number, simple and compund interest. 
